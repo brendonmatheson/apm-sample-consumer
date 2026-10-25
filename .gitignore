@@ -1,0 +1,7 @@
+
+.agents/
+.github/agents/
+.github/instructions/
+.github/prompts/
+.opencode/
+apm_modules/

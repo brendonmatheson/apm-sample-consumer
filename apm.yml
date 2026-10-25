@@ -1,0 +1,10 @@
+name: apm-sample-consumer
+version: 1.0.0
+description: Minimal consumer demonstrating APM package imports and upgrades.
+targets:
+  - opencode
+  - copilot
+dependencies:
+  apm:
+    - brendonmatheson/apm-sample-package#v1.0.0
+  mcp: []
